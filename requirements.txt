@@ -1,0 +1,4 @@
+spotipy
+sklearn
+requests
+base64
