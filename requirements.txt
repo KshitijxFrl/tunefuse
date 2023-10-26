@@ -1,5 +1,2 @@
-streamlit
-spotipy
-sklearn
-requests
-base64
+streamlit==1.26.0
+
