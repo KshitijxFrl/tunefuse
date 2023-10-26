@@ -1,0 +1,37 @@
+Welcome to the Tune Fuse setup guide section.
+
+
+⚠⚠ IMPORTANT STEPS BEFORE RUNNING/DEPLOYING THE APP ⚠⚠
+    
+    Enter your own Spotify Client ID and Client Secret
+
+    ** TO get your Client ID and Client Secret
+
+    Step 1 - > Go to Spotify Developers webpage and login (if you dont have a account please make one) 
+               https://developer.spotify.com/
+
+    Step 2 - > Then navigate your self to the profile icon and hit Dashboard.
+
+    Step 3 -> Hit Create APP.
+
+    Step 4 -> Enter App Name and Discription (any name and discription does't matter).
+
+    Step 5 -> In Redirect URIs enter this link -> http://localhost/
+
+    Step 6 -> In "Which API/SDKs are you planning to use?" section select Web API, Web Playback SDK
+
+    Step 7 -> Hit Save and then you will see a settings button after clicking it you have your 
+              Client ID and Client Secret
+
+    Step 8 -> Replace the value of Client ID and Client Secret in modelMoule.py
+
+
+⭐To Run locally
+
+-> Install streamlit (pip install streamlit)
+-> Unzip the folder  (go into the folder by using command prompt or command shell on linux and enter streamlit run app.py)
+
+⭐To Deploy the app
+
+-> Upload the app on git hub.
+-> 
