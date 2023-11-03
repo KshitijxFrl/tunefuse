@@ -9,6 +9,28 @@ audio_features = []
 similarity_matrix = []
 recommendations = []
 
+default_up = [
+    "Bohemian Rhapsody",
+    "Hotel California",
+    "Imagine",
+    "Like a Rolling Stone",
+    "Purple Haze",
+    "Stairway to Heaven",
+    "Hey Jude",
+    "Smells Like Teen Spirit",
+    "Yesterday",
+    "Let It Be",
+    "Billie Jean",
+    "Thriller",
+    "Sweet Child o' Mine",
+    "Wonderwall",
+    "Wonderful Tonight",
+    "Blackbird",
+    "My Girl",
+    "Hallelujah",
+    "I Want to Hold Your Hand",
+    "What's Going On"
+]
 
 # Default Display Text (About Section) 
 
