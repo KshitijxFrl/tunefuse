@@ -4,7 +4,7 @@ import random
 import modelModule as mm 
 import db
 
-st.image('./2.png')
+st.image('./logo_1.png')
 #st.title('TuneFuse')
 
 st.sidebar.title("🔍 About")
